@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        Log.i("TAG", "okayyyy");
+        Log.i("TAG", "Newwwwww");
 
         ArrayList<Category> categories = mCategoryManager.retrieveCategories();
 
