@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_category">Enter the name of the category</string>
+    <string name="positive_button_title">Create</string>
+</resources>
